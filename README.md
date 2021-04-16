@@ -1,4 +1,4 @@
-# flutter_google_signin
+# Google Auth with Flutter
 
 A new Flutter project.
 
