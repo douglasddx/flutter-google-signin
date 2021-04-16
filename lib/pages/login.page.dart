@@ -13,7 +13,6 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  final scaffoldKey = new GlobalKey<ScaffoldState>();
   final googleSignIn = GoogleSignIn();
   bool busy = false;
 
